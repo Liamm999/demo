@@ -15,6 +15,7 @@ public class FriendAdapter extends RecyclerView.Adapter<FriendAdapter.FriendHold
     @Override
     public FriendHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         System.out.println("test");
+        System.out.println("blanalb");
         return null;
     }
 
